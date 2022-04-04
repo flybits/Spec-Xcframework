@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "FlybitsKernelSDK"
   s.version = "3.9"
-  s.license = { :type => 'Apatche 2.0', :file => '../../LICENSE' }
+  s.license = { :type => 'Apache 2.0', :file => '../../LICENSE' }
   s.authors = "Flybits, Inc."
   s.ios.deployment_target = "9.0"
   s.ios.vendored_frameworks = "FlybitsKernelSDK.xcframework"
