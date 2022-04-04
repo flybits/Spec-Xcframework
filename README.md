@@ -1,6 +1,6 @@
 # Spec-XCFramework
 
-This is repository will hold all available releases from Flybits iOS SDKs compatible with Xcode 12.3.0 version.
+This is repository will hold all available releases from Flybits iOS SDKs compatible with all Xcode 11.4.0 and above versions.
 
 To use this repository on your podfile please use:
 
