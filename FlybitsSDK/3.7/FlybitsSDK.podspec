@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "FlybitsSDK"
   s.version = "3.7"
+  s.license = { :type => 'Apatche 2.0', :file => '../../LICENSE' }
   s.authors = "Flybits, Inc."
   s.ios.deployment_target = "9.0"
   s.ios.vendored_frameworks = "FlybitsSDK.xcframework"
